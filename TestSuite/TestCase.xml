@@ -7,7 +7,8 @@
     <con:settings/>
     <con:config>
       <script>log.info("Master branch initial script")
-log.info("Commit from ReadyAPI to Master branch")</script>
+log.info("Commit from ReadyAPI to Master branch")
+log.info("Commit from Git command line to Master branch")</script>
     </con:config>
   </con:testStep>
   <con:properties/>
